@@ -449,4 +449,3 @@ For this project, it's essential to select a dataset that reflects real-world Io
 
 ---
 
-Feel free to adjust the plan based on specific project requirements and constraints. Good luck with your MLOps project on anomaly detection in IoT streams!
