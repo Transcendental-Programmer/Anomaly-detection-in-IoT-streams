@@ -13,3 +13,7 @@ mlflow
 sqlalchemy
 plotly
 requests
+PyYAML
+docker-compose
+pytest-asyncio
+pytest-docker-compose
